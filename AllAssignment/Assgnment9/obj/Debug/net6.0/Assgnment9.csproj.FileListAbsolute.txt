@@ -1,0 +1,14 @@
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.AssemblyInfoInputs.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.AssemblyInfo.cs
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.csproj.CoreCompileInputs.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\bin\Debug\net6.0\Assgnment9.exe
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\bin\Debug\net6.0\Assgnment9.deps.json
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\bin\Debug\net6.0\Assgnment9.runtimeconfig.json
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\bin\Debug\net6.0\Assgnment9.dll
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\bin\Debug\net6.0\Assgnment9.pdb
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.dll
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\refint\Assgnment9.dll
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.pdb
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\Assgnment9.genruntimeconfig.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assgnment9\obj\Debug\net6.0\ref\Assgnment9.dll

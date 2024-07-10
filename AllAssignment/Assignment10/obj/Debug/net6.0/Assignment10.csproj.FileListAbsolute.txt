@@ -1,0 +1,14 @@
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\bin\Debug\net6.0\Assignment10.exe
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\bin\Debug\net6.0\Assignment10.deps.json
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\bin\Debug\net6.0\Assignment10.runtimeconfig.json
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\bin\Debug\net6.0\Assignment10.dll
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\bin\Debug\net6.0\Assignment10.pdb
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.AssemblyInfoInputs.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.AssemblyInfo.cs
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.csproj.CoreCompileInputs.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.dll
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\refint\Assignment10.dll
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.pdb
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\Assignment10.genruntimeconfig.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment10\obj\Debug\net6.0\ref\Assignment10.dll
