@@ -1,0 +1,5 @@
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment14\obj\Debug\net6.0\Assignment14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment14\obj\Debug\net6.0\Assignment14.AssemblyInfoInputs.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment14\obj\Debug\net6.0\Assignment14.AssemblyInfo.cs
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment14\obj\Debug\net6.0\Assignment14.csproj.CoreCompileInputs.cache
+C:\Users\jayba\Downloads\Git-Data\.NET\AllAssignment\Assignment14\obj\Debug\net6.0\Assignment14.sourcelink.json

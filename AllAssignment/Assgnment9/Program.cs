@@ -307,8 +307,8 @@
     {
         public static void Main()
         {
-            Manager manager1 = new Manager("Bob Johnson", true, new Date(20, 8, 1978), "789 Maple Ave", 80000, Employee.DepartmentType.Sales, 5000);
-
+            Manager manager1 = new Manager();
+            manager1.Accept();
             manager1.Print();
 
             Manager manager2 = new Manager();
